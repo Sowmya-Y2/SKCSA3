@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Before class method]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[Running testingpgm]]>
+    </line>
+    <line>
+      <![CDATA[After class method]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2020-08-06T07:36:47Z" finished-at="2020-08-06T07:36:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2020-08-06T07:36:47Z" finished-at="2020-08-06T07:36:47Z">
+      <class name="com.actitime.TestingClass">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.actitime.TestingClass@ce8af7]" name="beforeclass" is-config="true" duration-ms="15" started-at="2020-08-06T13:06:47Z" finished-at="2020-08-06T13:06:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before class method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:com.actitime.TestingClass@ce8af7]" name="afterclass" is-config="true" duration-ms="0" started-at="2020-08-06T13:06:47Z" finished-at="2020-08-06T13:06:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After class method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="testingpgm()[pri:0, instance:com.actitime.TestingClass@ce8af7]" name="testingpgm" duration-ms="0" started-at="2020-08-06T13:06:47Z" finished-at="2020-08-06T13:06:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+            <line>
+              <![CDATA[Running testingpgm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testingpgm -->
+      </class> <!-- com.actitime.TestingClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
