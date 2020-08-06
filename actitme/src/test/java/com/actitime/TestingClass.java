@@ -18,7 +18,7 @@ public class TestingClass {
 	@Test
 	public void testingpgm()
 	{
-		Reporter.log("Running testingpgm",true);
+	
 		Reporter.log("Running testingpgm",true);
 		Reporter.log("Running testingpgm",true);
 		Reporter.log("Running testingpgm",true);
