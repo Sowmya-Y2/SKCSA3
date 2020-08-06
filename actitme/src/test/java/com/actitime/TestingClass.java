@@ -22,10 +22,6 @@ public class TestingClass {
 		Reporter.log("Running testingpgm",true);
 		Reporter.log("Running testingpgm",true);
 		Reporter.log("Running testingpgm",true);
-		Reporter.log("Running testingpgm",true);
-		Reporter.log("Running testingpgm",true);
-		Reporter.log("Running testingpgm",true);
-		Reporter.log("Running testingpgm",true);
 		
 	}
 	
